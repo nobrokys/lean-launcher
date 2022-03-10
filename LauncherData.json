@@ -11,7 +11,7 @@
         "EzAPI": "Online",
         "EzLauncher": "Online"
     },
-    "LatestVersion": "https://raw.githubusercontent.com/nobrokys/lean/master/EzHub.lua",
+    "LatestVersion": "https://raw.githubusercontent.com/nobrokys/lean/main/EzHub.lua",
     "Themes": {
         "Default": {
             "ThemeIndex": 1,
